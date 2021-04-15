@@ -1,11 +1,6 @@
 ## Zadanie do wykładu 2
 
-### Zadanie 1: Cwiczenia
-1. Określić, ile maksymalnie wymiarów może zawierać tablica w Javie? Co się stanie, gdy się ten limit przekroczy?
-1. Czym się różni klasa wewnętrzna statyczna od niestatycznej? Zademonstrować przykład.
-1. Zaimplementować "diamond problem" oraz zademonstrować sposób rozwiązania
-
-### Zadanie 2: Arkusz kalkulacyjny.
+### Zadanie : Arkusz kalkulacyjny.
 
 Zadanie polega na zaimplementowaniu obliczeń w prostym arkuszy kalkulacyjnym. Arkusz operuje tylko na liczbach całkowitych, w zakresie ograniczonym typem `int`.
 

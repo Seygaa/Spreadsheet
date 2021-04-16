@@ -1,6 +1,9 @@
+Zadanie wykonane w ramach przedmiotu "Programowanie w Java". Szkielet aplikacji dostarczony był przez Pana Arkadiusza Sokołowskiego ( https://www.linkedin.com/in/arkadiusz-soko%C5%82owski-3a07862b/ ), prowadzącego zajęcia.
+
+
 ## Zadanie do wykładu 2
 
-### Zadanie : Arkusz kalkulacyjny.
+### Zadanie 1: Arkusz kalkulacyjny.
 
 Zadanie polega na zaimplementowaniu obliczeń w prostym arkuszy kalkulacyjnym. Arkusz operuje tylko na liczbach całkowitych, w zakresie ograniczonym typem `int`.
 
